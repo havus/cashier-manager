@@ -1,6 +1,6 @@
 # **Cashier Manager**
 
-> _This repo made with love_  :heart: _in Balikpapan_ `¯\_(ツ)_/¯`
+> _This repo made with_ :heart: _in Balikpapan for good man who provides me coffee and comfortable chairs on his cafe everyday_ `¯\_(ツ)_/¯`
 
 # _Section Header_
 * [Dependencies](#dependencies)
@@ -37,7 +37,6 @@ $ npm install
 # OR
 $ yarn
 ``` 
-<br>
 
 ## Usage
 ### Running app
